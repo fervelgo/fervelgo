@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola hola 👋
 
-<!--
-**fervelgo/fervelgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack dev and a product person. Former oficially a marketer, still think a lot about marketing, unoficcially.
 
-Here are some ideas to get you started:
+I've fallen down the crypto rabbit hole. There's no going back now 🕳️🐇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bio
+
+- 🇲🇽 Mexicano.
+- 🇵🇹 Based in Lisbon, for now.
+- 🔭 Currently working on...an exciting new project soon to see the light od day
+- 🌱 Learning tokenomics, web3, polishing some react and design skills.
+- 🤔 I’m looking for help with DAO governance and product design.
+- 📫 Lets be friends: https://twitter.com/fervelgo
+- ⚡ Fun facts: Former güiro player, golfer, yogi, lover of good food, good design, good coffee and good comedy.
+
