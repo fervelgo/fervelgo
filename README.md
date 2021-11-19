@@ -1,6 +1,6 @@
 ### Hola hola 👋
 
-I'm a Full Stack dev and a product person. Former oficially a marketer, still think a lot about marketing, unoficcially.
+I'm a Full Stack dev and a product person. Formerlly oficially a marketer. Still think a lot about marketing, unoficcially.
 
 I've fallen down the crypto rabbit hole. There's no going back now 🕳️🐇
 
