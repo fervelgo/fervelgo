@@ -1,4 +1,4 @@
-### Hola hola 👋
+### 👋
 
 I'm a Full Stack dev and a product person. Former marketer, still think a lot about marketing.
 
